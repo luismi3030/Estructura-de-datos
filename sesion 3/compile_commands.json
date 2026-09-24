@@ -1,0 +1,53 @@
+[{
+  "file": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas\\NodoCola.hpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas\\NodoCola.hpp\" -o \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas\\NodoCola.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas\\Cola.hpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas\\Cola.hpp\" -o \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas\\Cola.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas\\main.cpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas\\main.cpp\" -o \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas\\NodoCola.cpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas\\NodoCola.cpp\" -o \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas\\NodoCola.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas\\Cola.cpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas\\Cola.cpp\" -o \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Colas\\Cola.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas\\NodoPila.cpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas\\NodoPila.cpp\" -o \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas\\NodoPila.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas\\NodoPila.hpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas\\NodoPila.hpp\" -o \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas\\NodoPila.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas\\main.cpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas\\main.cpp\" -o \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas\\Pila.hpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas\\Pila.hpp\" -o \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas\\Pila.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas\\Pila.cpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas\\Pila.cpp\" -o \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Pilas\\Pila.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Ejemplo13\\Persona.hpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Ejemplo13",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Ejemplo13\\Persona.hpp\" -o \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Ejemplo13\\Persona.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Ejemplo13\\Persona.cpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Ejemplo13",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Ejemplo13\\Persona.cpp\" -o \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Ejemplo13\\Persona.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Ejemplo13\\main.cpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\sesion 3\\Ejemplo13",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Ejemplo13\\main.cpp\" -o \"C:\\Users\\lmcm1\\Desktop\\sesion 3\\Ejemplo13\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
